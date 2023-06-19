@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Roboto:wght@100;200;300;400;500;600&display=swap");
+@import "./reset.scss";
+@import "./wp.scss";
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+span,
+p,
+div {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  color: dimgray;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+:root {
+  --primary-color: #a61abb;
+  --primary-light-color: #f7e6fc;
+  --surface-primary-color: white;
+  --mute-color: lightgray;
+}
+
+.bg-light-color {
+  background-color: var(--surface-primary-color);
+}
+
+.light-color {
+  color: var(--surface-primary-color);
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+
+.bg-primary-color {
+  background-color: var(--primary-color);
+}
+
+.bg-primary-light-color {
+  background-color: var(--primary-light-color);
+}
+
+.mute-color {
+  color: var(--mute-color);
+}
+
+.bg-mute-color {
+  background-color: var(--mute-color);
+}
+
+.button-secondary {
+  background-color: var(--primary-light-color);
+  border-width: 1px;
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+  border-style: solid;
+  cursor: pointer;
+}
+
+.button-primary {
+  background-color: var(--primary-color);
+  color: var(--primary-light-color);
+  cursor: pointer;
+}
+
+.button-standard {
+  background-color: var(--mute-color);
+  color: "black";
+  cursor: pointer;
+}
+
+.filter-primary-color {
+  filter: invert(80%) sepia(100%) saturate(2734%) hue-rotate(282deg)
+    brightness(83%) contrast(103%);
+}
+
+.filter-none {
+  filter: none;
+}
+
+.container-column {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+
+.image-fluid {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}

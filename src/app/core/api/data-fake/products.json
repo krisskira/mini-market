@@ -1,0 +1,122 @@
+[
+    {
+        "code": "000-000",
+        "name": "Leche Alqueria 1L",
+        "price": 1.50,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/leche.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-001",
+        "name": "De Todito Paqueton 45g",
+        "price": 0.50,
+        "image": {
+            "size": "large",
+            "url": "http://localhost:5173/statics/detodito.jpeg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-002",
+        "name": "Milo 250g",
+        "price": 1.00,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/milo.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-003",
+        "name": "Zucaritas 480g",
+        "price": 1.00,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/cereal.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-004",
+        "name": "Leche Alqueria 1L",
+        "price": 1.50,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/leche.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-005",
+        "name": "De Todito Paqueton 45g",
+        "price": 0.50,
+        "image": {
+            "size": "large",
+            "url": "http://localhost:5173/statics/detodito.jpeg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-006",
+        "name": "Milo 250g",
+        "price": 1.00,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/milo.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-007",
+        "name": "Milo 250g",
+        "price": 1.00,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/milo.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-008",
+        "name": "Zucaritas 480g",
+        "price": 1.00,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/cereal.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-009",
+        "name": "De Todito Paqueton 45g",
+        "price": 0.50,
+        "image": {
+            "size": "large",
+            "url": "http://localhost:5173/statics/detodito.jpeg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-010",
+        "name": "Leche Alqueria 1L",
+        "price": 1.50,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/leche.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    },
+    {
+        "code": "000-011",
+        "name": "Leche Alqueria 1L",
+        "price": 1.50,
+        "image": {
+            "size": "small",
+            "url": "http://localhost:5173/statics/leche.jpg"
+        },
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
+    }
+]

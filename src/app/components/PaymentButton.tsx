@@ -1,16 +1,18 @@
 import { FC, useMemo } from "react";
+import { AppConfig } from "../core/appConfig";
 interface Props {
   amount: number;
 }
 
 export const PaymentButton: FC<Props> = ({ amount = 1 }) => {
   const checkout = useMemo(() => {
+    if (!amount) return undefined;
     // @ts-ignore
     return new WidgetCheckout({
       currency: "COP",
       amountInCents: Math.round(amount * 100),
       reference: "AD002901221",
-      publicKey: "pub_test_cHFA7zZNb8XAOYRFxpHw7NadFgiUI5zT",
+      publicKey: AppConfig.PAYMENT_GATEWAY_SECRET,
     });
   }, [amount]);
 
@@ -24,7 +26,11 @@ export const PaymentButton: FC<Props> = ({ amount = 1 }) => {
   };
 
   return (
-    <button className="waybox-button" onClick={onPressPayment}>
+    <button
+      className={`waybox-button ${!amount ? "bg-mute-color" : ""}`}
+      disabled={!amount}
+      onClick={onPressPayment}
+    >
       Pagar con <strong>Wompi</strong>
     </button>
   );

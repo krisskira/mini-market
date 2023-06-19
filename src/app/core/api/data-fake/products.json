@@ -2,7 +2,7 @@
     {
         "code": "000-000",
         "name": "Leche Alqueria 1L",
-        "price": 1.50,
+        "price": 4500,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/leche.jpg"
@@ -12,7 +12,7 @@
     {
         "code": "000-001",
         "name": "De Todito Paqueton 45g",
-        "price": 0.50,
+        "price": 2500,
         "image": {
             "size": "large",
             "url": "http://localhost:5173/statics/detodito.jpeg"
@@ -22,7 +22,7 @@
     {
         "code": "000-002",
         "name": "Milo 250g",
-        "price": 1.00,
+        "price": 15000,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/milo.jpg"
@@ -32,7 +32,7 @@
     {
         "code": "000-003",
         "name": "Zucaritas 480g",
-        "price": 1.00,
+        "price":1850,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/cereal.jpg"
@@ -42,7 +42,7 @@
     {
         "code": "000-004",
         "name": "Leche Alqueria 1L",
-        "price": 1.50,
+        "price": 4500,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/leche.jpg"
@@ -52,7 +52,7 @@
     {
         "code": "000-005",
         "name": "De Todito Paqueton 45g",
-        "price": 0.50,
+        "price": 2500,
         "image": {
             "size": "large",
             "url": "http://localhost:5173/statics/detodito.jpeg"
@@ -62,7 +62,7 @@
     {
         "code": "000-006",
         "name": "Milo 250g",
-        "price": 1.00,
+        "price": 15000,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/milo.jpg"
@@ -72,7 +72,7 @@
     {
         "code": "000-007",
         "name": "Milo 250g",
-        "price": 1.00,
+        "price": 15000,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/milo.jpg"
@@ -82,7 +82,7 @@
     {
         "code": "000-008",
         "name": "Zucaritas 480g",
-        "price": 1.00,
+        "price": 1850,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/cereal.jpg"
@@ -92,7 +92,7 @@
     {
         "code": "000-009",
         "name": "De Todito Paqueton 45g",
-        "price": 0.50,
+        "price": 2500,
         "image": {
             "size": "large",
             "url": "http://localhost:5173/statics/detodito.jpeg"
@@ -102,7 +102,7 @@
     {
         "code": "000-010",
         "name": "Leche Alqueria 1L",
-        "price": 1.50,
+        "price": 4500,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/leche.jpg"
@@ -112,7 +112,7 @@
     {
         "code": "000-011",
         "name": "Leche Alqueria 1L",
-        "price": 1.50,
+        "price": 4500,
         "image": {
             "size": "small",
             "url": "http://localhost:5173/statics/leche.jpg"

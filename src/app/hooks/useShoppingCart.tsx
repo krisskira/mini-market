@@ -8,41 +8,26 @@ import { Product } from "../core/entities/product.entity";
 import { ShoppingCartSummary } from "../core/entities/shoppingCart.entity";
 
 export const useShoopingCart = () => {
-  const { products } = useAppSelector(shoppingCartSelector);
+  const [...products] = useAppSelector(shoppingCartSelector);
   const dispatch = useAppDispatch();
 
-  const totalPrice = products?.reduce(
-    (acc, product) => (acc ?? 0) + product.price,
-    0
-  );
-
-  const cartItems = products.reduce((acc, p0) => {
-    const productInclude = acc.findIndex((p1) => p0.code === p1.code);
-    if (productInclude === -1) return [...acc, { ...p0, count: 1 }];
-    acc[productInclude]["count"] += 1;
-    return acc;
-  }, [] as ShoppingCartSummary);
+  const totalPrice = products?.reduce((t, { total }) => t + total, 0) || 0;
 
   const addProductToCart = (product: Product) => {
     dispatch(addToCart(product));
-    localStorage.setItem(
-      "shoppingCart",
-      JSON.stringify([...products, product])
-    );
   };
 
-  const removeProductToCart = ({ code }: Product) => {
-    dispatch(deleteToCart({ code }));
+  const removeProductToCart = (code: string) => {
+    dispatch(deleteToCart(code));
   };
 
   const getUnitsNumber = (productCode: string): number => {
-    return products.filter(({ code }) => code == productCode).length;
+    return products.find(({ code }) => code == productCode)?.count ?? 0;
   };
 
   return {
     total: totalPrice,
     products,
-    cartItems,
     addProductToCart,
     removeProductToCart,
     getUnitsNumber,

@@ -21,7 +21,7 @@ export const ProductDetailPage = () => {
   };
 
   const onPressRemoveToCart = () => {
-    removeProductToCart(product);
+    removeProductToCart(product.code);
   };
 
   return (

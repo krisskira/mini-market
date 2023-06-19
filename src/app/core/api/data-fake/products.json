@@ -5,7 +5,7 @@
         "price": 4500,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/leche.jpg"
+            "url": "/statics/leche.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -15,7 +15,7 @@
         "price": 2500,
         "image": {
             "size": "large",
-            "url": "http://localhost:5173/statics/detodito.jpeg"
+            "url": "/statics/detodito.jpeg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -25,7 +25,7 @@
         "price": 15000,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/milo.jpg"
+            "url": "/statics/milo.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -35,7 +35,7 @@
         "price":1850,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/cereal.jpg"
+            "url": "/statics/cereal.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -45,7 +45,7 @@
         "price": 4500,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/leche.jpg"
+            "url": "/statics/leche.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -55,7 +55,7 @@
         "price": 2500,
         "image": {
             "size": "large",
-            "url": "http://localhost:5173/statics/detodito.jpeg"
+            "url": "/statics/detodito.jpeg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -65,7 +65,7 @@
         "price": 15000,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/milo.jpg"
+            "url": "/statics/milo.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -75,7 +75,7 @@
         "price": 15000,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/milo.jpg"
+            "url": "/statics/milo.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -85,7 +85,7 @@
         "price": 1850,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/cereal.jpg"
+            "url": "/statics/cereal.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -95,7 +95,7 @@
         "price": 2500,
         "image": {
             "size": "large",
-            "url": "http://localhost:5173/statics/detodito.jpeg"
+            "url": "/statics/detodito.jpeg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -105,7 +105,7 @@
         "price": 4500,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/leche.jpg"
+            "url": "/statics/leche.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     },
@@ -115,7 +115,7 @@
         "price": 4500,
         "image": {
             "size": "small",
-            "url": "http://localhost:5173/statics/leche.jpg"
+            "url": "/statics/leche.jpg"
         },
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In deserunt perferendis qui similique officia est non. Fugiat, itaque nostrum? Officiis, tempora? Tempore aspernatur dolorem amet perspiciatis error eius similique eos. Voluptatum nihil doloribus tempora alias voluptatibus consequatur, cum eaque quaerat aspernatur pariatur, ducimus veritatis debitis. Temporibus provident omnis dolorem sapiente quia architecto voluptatibus! Nemo, voluptatum asperiores facilis nesciunt temporibus eligendi.        Laborum, consectetur eveniet. Voluptatum reiciendis quas, iusto sunt necessitatibus laboriosam rem ducimus delectus dolorum voluptates. Illo et recusandae veritatis eligendi cumque non excepturi deleniti, minima molestiae necessitatibus, enim veniam suscipit?"
     }

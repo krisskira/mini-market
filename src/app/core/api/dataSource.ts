@@ -1,8 +1,5 @@
 import { Product } from "../entities/product.entity";
-import {
-  ItemShopingCart,
-  ShoppingCartSummary,
-} from "../entities/shoppingCart.entity";
+import { ShoppingCartSummary } from "../entities/shoppingCart.entity";
 import fakejson from "./data-fake/products.json";
 
 const CART_STORAGE_KEY = "@ShoppingCart";

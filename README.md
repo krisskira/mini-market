@@ -7,6 +7,11 @@
 
 ## How run the tests.
 
+For runing the test, you have three options:
+- Only for console: `yarn test` command or `npm run test`.
+- By Console but you will see a UI: `yarn test:ui` command or `npm run test:ui`, by http://127.0.0.1:51204/__vitest__/
+- The last one is used to know the test coverage: `yarn test:coverage` command or `npm run test:coverage`.
+
 ## How build the app for a production environment.
 
 - Firstly  you need change the `VITE_PAYMENT_GATEWAY_SECRET` value in `.env` file for the production or real value.

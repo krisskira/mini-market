@@ -15,7 +15,6 @@ export const ShoppingCartButton: FC<Props> = (props) => {
   const { style = "read-only" } = props;
 
   const navigate = useNavigate();
-
   const { total } = useShoopingCart();
 
   const onPressClose = () => {
@@ -28,6 +27,7 @@ export const ShoppingCartButton: FC<Props> = (props) => {
 
   return (
     <div
+      data-testid="shoppingCartButton"
       className={style === "close" ? "button-secondary" : "button-primary"}
       style={{
         display: "flex",
@@ -63,6 +63,7 @@ export const ShoppingCartButton: FC<Props> = (props) => {
 
       {style === "close" && (
         <ButtonIcon
+          data-testid="collapseButtonShoppingCart"
           className="bg-primary-color"
           onClick={onPressClose}
           icon={closeIcon}

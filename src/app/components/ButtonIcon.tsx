@@ -1,6 +1,7 @@
 import { CSSProperties, FC } from "react";
 
 interface Props {
+  "data-testid"?: string;
   icon: string;
   onClick?(): void;
   style?: CSSProperties;
@@ -12,6 +13,7 @@ interface Props {
 export const ButtonIcon: FC<Props> = (props) => {
   return (
     <button
+      data-testid={props["data-testid"]}
       onClick={props.onClick}
       className={props.className}
       style={{

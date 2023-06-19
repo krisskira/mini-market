@@ -5,7 +5,6 @@ import {
   shoppingCartSelector,
 } from "../core/store/slices/shopingCart.slice";
 import { Product } from "../core/entities/product.entity";
-import { ShoppingCartSummary } from "../core/entities/shoppingCart.entity";
 
 export const useShoopingCart = () => {
   const [...products] = useAppSelector(shoppingCartSelector);
